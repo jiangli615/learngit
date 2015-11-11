@@ -38,7 +38,7 @@ public class MainActivity extends Activity
 		public void onClick(View v)
 		{
 			// TODO Auto-generated method stub
-
+//test
 			String username = tvUserName.getText().toString();
 			String password = tvPassword.getText().toString();
 			String info = "”√ªß√˚£∫" + username + "°Ó°Ó°Ó√‹¬Î£∫" + password;
